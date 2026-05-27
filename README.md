@@ -25,7 +25,7 @@ Comecei minha trajetória em TI empreendendo — fundei a **Texnologia Descompli
 
 Minha especialidade está na interseção entre **Cloud e ambientes críticos** — Hybrid Cloud (Azure, AWS, On-Prem), observabilidade com Dynatrace, Zabbix e Grafana, automação com Shell e PowerShell, e resolução de incidentes complexos com análise de causa raiz. Trabalho onde o downtime não é uma opção.
 
-Atualmente expandindo minha atuação para **Inteligência Artificial** aplicada a negócios e infraestrutura.
+Atualmente expandindo minha atuação para **Inteligência Artificial** aplicada a negócios e infraestrutura, com exploração de **Databricks** para engenharia e análise de dados.
 
 ---
 
@@ -35,7 +35,7 @@ I started my IT journey as an entrepreneur — I founded **Texnologia Descomplic
 
 My expertise lies at the intersection of **Cloud and mission-critical environments** — Hybrid Cloud (Azure, AWS, On-Prem), observability with Dynatrace, Zabbix, and Grafana, automation with Shell and PowerShell, and complex incident resolution with root cause analysis. I work where downtime is not an option.
 
-Currently expanding into **Artificial Intelligence** applied to business and infrastructure.
+Currently expanding into **Artificial Intelligence** applied to business and infrastructure, with hands-on exploration of **Databricks** for data engineering and analytics.
 
 ---
 
@@ -65,6 +65,7 @@ Texnologia Descomplicada            →  Fundador & Analista
 ### Sistemas Operacionais / OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Observabilidade / Observability
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
@@ -79,6 +80,9 @@ Texnologia Descomplicada            →  Fundador & Analista
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Dados & IA / Data & AI
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
