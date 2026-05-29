@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.texwiller.com.br/assets/profile.jpeg" alt="Tex Willer Gusman" width="120" style="border-radius: 50%"/>
-
 # Tex Willer Gusman dos Santos
 
 ### 🇧🇷 PT-BR &nbsp;|&nbsp; 🇺🇸 EN
@@ -16,7 +14,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-texwiller.com.br-c8ff00?style=for-the-badge&logo=azure-static-web-apps&logoColor=black)](https://www.texwiller.com.br)
 [![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://texwiller.grafana.net)
 [![Uptime](https://img.shields.io/badge/Uptime-100%25-brightgreen?style=for-the-badge&logo=azuredevops&logoColor=white)](https://www.texwiller.com.br)
-[![Deploy](https://github.com/iamtexwiller/iamtexwiller.github.io/actions/workflows/azure-static-web-apps-happy-forest-02982040f.yml/badge.svg)](https://github.com/iamtexwiller/iamtexwiller.github.io/actions)
 
 </div>
 
@@ -148,7 +145,6 @@ Este repositório documenta meu site pessoal hospedado na **Azure Static Web App
 | 📈 Observabilidade | [texwiller.grafana.net](https://texwiller.grafana.net) |
 | 🔁 CI/CD | GitHub Actions → Azure |
 | 🌍 DNS | Registro.br |
-| 🚀 Deploy Status | [![Deploy](https://github.com/iamtexwiller/iamtexwiller.github.io/actions/workflows/azure-static-web-apps-happy-forest-02982040f.yml/badge.svg)](https://github.com/iamtexwiller/iamtexwiller.github.io/actions) |
 
 ---
 
