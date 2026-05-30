@@ -122,6 +122,7 @@ Texnologia Descomplicada            →  Fundador & Analista
 ## 📊 GitHub Stats
 
 <div align="center">
+
 ![Tex's GitHub Stats](https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=iamtexwiller&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&icon_color=c8ff00&text_color=f0ede6&count_private=true)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=iamtexwiller&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&text_color=f0ede6)
