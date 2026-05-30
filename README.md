@@ -122,10 +122,9 @@ Texnologia Descomplicada            →  Fundador & Analista
 ## 📊 GitHub Stats
 
 <div align="center">
+![Tex's GitHub Stats](https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=iamtexwiller&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&icon_color=c8ff00&text_color=f0ede6&count_private=true)
 
-![Tex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamtexwiller&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&icon_color=c8ff00&text_color=f0ede6&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtexwiller&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&text_color=f0ede6)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=iamtexwiller&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&text_color=f0ede6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamtexwiller&theme=dark&hide_border=true&background=0d0d0d&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00)
 
