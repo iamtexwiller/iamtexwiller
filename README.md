@@ -127,7 +127,6 @@ Texnologia Descomplicada            →  Fundador & Analista
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtexwiller&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c8ff00&text_color=f0ede6" alt="Top Languages" onerror="this.style.display='none'"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iamtexwiller&theme=dark&hide_border=true&background=0d0d0d&ring=c8ff00&fire=c8ff00&currStreakLabel=c8ff00)
 
 </div>
 
